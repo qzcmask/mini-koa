@@ -1,0 +1,25 @@
+{
+  "name": "mini-koa",
+  "version": "1.0.0",
+  "description": "mini-koa是一个精简版koa和koa-router的结合，是一个值得学习Node网络框架封装的项目。",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "example": "node ./examples/server.js"
+  },
+  "keywords": [
+    "Node.js",
+    "koa",
+    "koa-router"
+  ],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/qzcmask/mini-koa"
+    },
+  "author": "Mask",
+  "license": "MIT"
+}
